@@ -19,9 +19,7 @@ def id_generator
 end
 
 def my_hash_creator(key, value)
-    {
-  "one key" => "one value",
-  "two key" => "two value"
+ 
 }
 end
 
