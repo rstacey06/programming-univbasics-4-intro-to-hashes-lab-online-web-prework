@@ -19,7 +19,10 @@ def id_generator
 end
 
 def my_hash_creator(key, value)
-
+dog_one = {
+  name: "Luca",
+  breed: "German Shepherd"
+}
 end
 
 def read_from_hash(hash, key)
