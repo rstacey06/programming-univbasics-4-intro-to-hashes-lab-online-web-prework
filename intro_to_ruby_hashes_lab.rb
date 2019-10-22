@@ -19,7 +19,7 @@ def id_generator
 end
 
 def my_hash_creator(key, value)
-  monopoly = {:railroads => {:pieces => 4, :names => {} ,:rent_in_dollars =>{}}
+   = {:railroads => {:pieces => 4, :names => {} ,:rent_in_dollars =>{}}
 }
 end
 
