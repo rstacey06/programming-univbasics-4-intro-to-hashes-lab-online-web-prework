@@ -19,7 +19,8 @@ def id_generator
 end
 
 def my_hash_creator(key, value)
-   id_generator = {:id => 10}
+  monopoly = {:railroads => {:pieces => 4, :names => {} ,:rent_in_dollars =>{}}
+}
 end
 
 def read_from_hash(hash, key)
