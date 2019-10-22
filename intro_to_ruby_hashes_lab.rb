@@ -19,7 +19,7 @@ def id_generator
 end
 
 def my_hash_creator(key, value)
-  { "key" => "value","another_key" => "another_value"}
+ {:name=>"Grace Hopper"}
 end
 
 def read_from_hash(hash, key)
