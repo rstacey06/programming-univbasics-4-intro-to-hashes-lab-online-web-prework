@@ -19,7 +19,7 @@ def id_generator
 end
 
 def my_hash_creator(key, value)
-  my_hash_creator = {1 => "learn to garden", 2 => "plant seeds", 10 => "eat vegetables"}
+  
   end
 
 def read_from_hash(hash, key)
