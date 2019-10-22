@@ -19,7 +19,7 @@ def id_generator
 end
 
 def my_hash_creator(key, value)
-   = {:railroads => {:pieces => 4, :names => {} ,:rent_in_dollars =>{}}
+ my_hash_creator  = {:railroads => {:pieces => 4, :names => {} ,:rent_in_dollars =>{}}
 }
 end
 
